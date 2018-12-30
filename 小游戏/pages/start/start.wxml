@@ -1,0 +1,30 @@
+<!--index.wxml-->
+
+<view class="container">
+
+  
+
+
+  <view class='selection'>
+
+    <image src='{{tempFilePaths}}' class='img' mode="aspectFit"></image>
+
+    <view class='btns'>
+
+      <button bindtap='chooseimage'>来张图片</button>
+
+      <button bindtap='identifyimage'>点此识别</button>
+
+    </view>
+
+  </view>
+
+
+
+  <view class="usermotto">
+
+    <text class="user-motto">{{motto}}</text>
+
+  </view>
+
+</view>

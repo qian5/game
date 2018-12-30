@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/shitoujiandaobu/shitoujiandaobu",
+    "pages/2048/2048",
+    "pages/snake/snake",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "小游戏",
+    "navigationBarTextStyle": "black"
+  }
+}
